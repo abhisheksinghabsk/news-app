@@ -1,0 +1,9 @@
+.card_box:hover {
+    transform: scale(1.02);
+    transition: .5s;
+}
+
+.card_box:hover .card_img {
+    transform: scale(.95);
+    transition: .5s;
+}
